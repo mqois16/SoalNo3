@@ -1,0 +1,40 @@
+nav ul{
+	list-style-type: none;
+	position: absolute;
+	width: 1500px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	background: #F9F9F9;
+}
+nav ul li{
+	position: absolute;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	align-content: center;
+	vertical-align: middle;
+	color: black;
+	padding-left: 550px;
+}
+#kartu{
+	align-content: center;
+	margin-left: 570px;
+}
+#kartu ul{
+	list-style-type: none;
+	vertical-align: center;
+	border-radius: 25px;
+  	border: 1px solid #DCDCDC;
+  	padding: 20px;
+  	width: 200px;
+  	height: 150px;
+}
+#kartu ul img{
+	overflow: auto;
+	width: 200px
+
+
+}
